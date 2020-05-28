@@ -1,0 +1,143 @@
+- name: tofurky_plant-based-original-sausage_italian
+  qualifier: item
+  ingredients:
+  - name: organic_tofu
+    qualifier: null
+    ingredients:
+    - name: water
+      qualifier: null
+      ingredients: []
+    - name: organic_soybeans
+      qualifier: null
+      ingredients: []
+    - name: magnesium_chloride
+      qualifier: null
+      ingredients: []
+    - name: calcium_chloride
+      qualifier: null
+      ingredients: []
+  - name: vital_wheat_gluten
+    qualifier: null
+    ingredients: []
+  - name: expeller_pressed_canola_oil
+    qualifier: null
+    ingredients: []
+  - name: water
+    qualifier: null
+    ingredients: []
+  - name: soy sauce
+    ingredients:
+    - name: water
+      qualifier: null
+      ingredients: []
+    - name: soybeans
+      qualifier: null
+      ingredients: []
+    - name: wheat
+      qualifier: null
+      ingredients: []
+    - name: salt
+      qualifier: null
+      ingredients: []
+  - name: soy_flour_and_or_concentrate
+    qualifier: null
+    ingredients: []
+  - name: sun_dried_tomatoes
+    qualifier: null
+    ingredients: []
+  - name: basil
+    qualifier: under_two_percent
+    ingredients: []
+  - name: granulated_garlic
+    qualifier: under_two_percent
+    ingredients: []
+  - name: sea_salt
+    qualifier: under_two_percent
+    ingredients: []
+  - name: spices
+    qualifier: under_two_percent
+    ingredients: []
+  - name: sunflower_oil
+    qualifier: under_two_percent
+    ingredients: []
+  - name: potassium chloride
+    qualifier: under_two_percent
+    ingredients: []
+- name: tofurky_plant-based-original-sausage_beer-brats
+  qualifier: item
+  ingredients:
+  - name: water
+    qualifier: null
+    ingredients: []
+  - name: vital_wheat_gluten
+    qualifier: null
+    ingredients: []
+  - name: expeller_pressed_canola_oil
+    qualifier: null
+    ingredients: []
+  - name: organic_tofu
+    qualifier: null
+    ingredients:
+    - name: water
+      qualifier: null
+      ingredients: []
+    - name: organic_soybeans
+      qualifier: null
+      ingredients: []
+    - name: magnesium_chloride
+      qualifier: null
+      ingredients: []
+    - name: calcium_chloride
+      qualifier: null
+      ingredients: []
+  - name: onions
+    qualifier: null
+    ingredients: []
+  - name: soy_flour_and_or_concentrate
+    qualifier: null
+    ingredients: []
+  - name: amber ale
+    qualifier: null
+    ingredients:
+    - name: water
+      qualifier: null
+      ingredients: []
+    - name: malted barley
+      qualifier: null
+      ingredients: []
+    - name: hops
+      qualifier: null
+      ingredients: []
+    - name: yeast
+      qualifier: null
+      ingredients: []
+  - name: sea salt
+    qualifier: under_two_percent
+    ingredients: []
+  - name: cane sugar
+    qualifier: under_two_percent
+    ingredients: []
+  - name: spices
+    qualifier: under_two_percent
+    ingredients: []
+  - name: dehydratedonion
+    qualifier: under_two_percent
+    ingredients: []
+  - name: granulated garlic
+    qualifier: under_two_percent
+    ingredients: []
+  - name: garlic puree
+    qualifier: under_two_percent
+    ingredients: []
+  - name: carrageenan
+    qualifier: under_two_percent
+    ingredients: []
+  - name: dextrose
+    qualifier: under_two_percent
+    ingredients: []
+  - name: konjac
+    qualifier: under_two_percent
+    ingredients: []
+  - name: potassium chloride
+    qualifier: under_two_percent
+    ingredients: []
