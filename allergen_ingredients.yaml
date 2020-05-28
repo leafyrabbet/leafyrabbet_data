@@ -1,0 +1,36 @@
+- name: peanut
+  ingredients:
+  - peanut
+  - peanuts
+  - peanut_butter
+  - peanut_flour
+  - peanut_powder
+- name: soy
+  ingredients:
+  - soy
+  - tofu
+  - soy_protein_isolate
+  - dehydrated_soy
+  - dehydrated_soy_protein
+  - organic_soybeans
+  - organic_tofu
+  - organic_soy
+  - soybeans
+  - soy_sauce
+  - soya_sauce
+  - soya
+  - acid_hydrolyzed_soy_protein
+  - tamari
+- allergy: soy
+  ingredients:
+  - almonds
+  - brazil_nuts
+  - cashews
+  - chestnuts
+  - filberts
+  - hazelnuts
+  - macadamia_nuts
+  - pecans
+  - pistachios
+  - shea_nuts
+  - walnuts
