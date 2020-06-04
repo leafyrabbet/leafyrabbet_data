@@ -1,4 +1,4 @@
-uid,name,cost,cost_member,denomination,deposit,group,description
+uid,ean_13,name,cost,cost_member,denomination,deposit,group,description
 000,0020188060139,"tofutti sour cream",3.29,2.79,usd,0.00,"dairy","Tofutti Milk-Free Sour Cream"
 001,0020188060139,"tofutti sour cream",3.29,2.79,usd,0.00,"dairy","Tofutti Milk-Free Sour Cream"
 002,0000000000000,"tfrky swt itln saus",4.99,4.99,usd,0.00,"dairy","Tofurky Plant-Based Original Sausage (Italian)"
